@@ -1,12 +1,14 @@
 import Navbar from "@/components/Navbar";
-import Slider from "@/components/Slider";
 import Image from "next/image";
 
 export default function Home() {
   return (
-    <div className="">
+    <div class name {
+      constructor(parameters) {
+        
+      }
+    }>
       <Navbar></Navbar>
-      <Slider></Slider>
     </div>
   );
 }
