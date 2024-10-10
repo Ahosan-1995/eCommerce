@@ -1,0 +1,381 @@
+[
+  {
+    "category": "Soft Drinks",
+    "name": "Coca-Cola",
+    "description": "Classic carbonated soft drink with a refreshing taste.",
+    "ingredient": "Carbonated water, Sugar, Caramel color, Phosphoric acid, Natural flavors",
+    "price": "1.50",
+    "image": "https://i.postimg.cc/SK795PKt/Drinks-1.jpg.jpg"
+  },
+  {
+    "category": "Soft Drinks",
+    "name": "Pepsi",
+    "description": "Popular carbonated soft drink with a sweet and refreshing flavor.",
+    "ingredient": "Carbonated water, Sugar, Caramel color, Phosphoric acid, Natural flavors",
+    "price": "1.50",
+    "image": "https://i.postimg.cc/N0wTdtQH/Drinks-2.jpg"
+  },
+  {
+    "category": "Soft Drinks",
+    "name": "Sprite",
+    "description": "Lemon-lime flavored soda with a crisp, clean taste.",
+    "ingredient": "Carbonated water, Sugar, Citric acid, Natural lemon-lime flavors",
+    "price": "1.50",
+    "image": "https://i.postimg.cc/TwdbXcL2/Drinks-3.jpg"
+  },
+  {
+    "category": "Soft Drinks",
+    "name": "Fanta",
+    "description": "Fruity orange-flavored soda, perfect for a refreshing break.",
+    "ingredient": "Carbonated water, Sugar, Citric acid, Natural orange flavor",
+    "price": "1.50",
+    "image": "https://i.postimg.cc/pTsFVnzf/Drinks-4.jpg"
+  },
+  {
+    "category": "Soft Drinks",
+    "name": "Mountain Dew",
+    "description": "Citrus-flavored soda with a tangy and refreshing taste.",
+    "ingredient": "Carbonated water, Sugar, Citric acid, Natural citrus flavors",
+    "price": "1.50",
+    "image": "https://i.postimg.cc/T1S5gMkh/Drinks-5.jpg"
+  },
+  {
+    "category": "Soft Drinks",
+    "name": "Lemonade",
+    "description": "Freshly squeezed lemon juice mixed with water and sugar.",
+    "ingredient": "Lemon, Water, Sugar",
+    "price": "2.00",
+    "image": "https://i.postimg.cc/RhqnWVLj/Drinks-6.jpg"
+  },
+  {
+    "category": "Soft Drinks",
+    "name": "Iced Tea",
+    "description": "Chilled black tea served with lemon and a touch of sweetness.",
+    "ingredient": "Black tea, Lemon, Sugar, Water",
+    "price": "2.50",
+    "image": "https://i.postimg.cc/XNDCTdV3/Drinks-7.jpg"
+  },
+
+
+
+
+
+  {
+    "category": "Dessert",
+    "name": "Chocolate Cake",
+    "description": "Rich and moist chocolate cake with a creamy frosting.",
+    "ingredient": "Flour, Cocoa powder, Sugar, Eggs, Butter, Chocolate",
+    "price": "4.99",
+    "image": "https://i.postimg.cc/Qxtq7jMN/dessert-1.jpg"
+  },
+  {
+    "category": "Dessert",
+    "name": "Cheesecake",
+    "description": "Creamy cheesecake with a graham cracker crust, served with fresh berries.",
+    "ingredient": "Cream cheese, Sugar, Eggs, Graham cracker crust, Berries",
+    "price": "5.99",
+    "image": "https://i.postimg.cc/fTrfj13c/dessert-2.jpg"
+  },
+  {
+    "category": "Dessert",
+    "name": "Ice Cream Sundae",
+    "description": "Vanilla ice cream topped with chocolate sauce, whipped cream, and a cherry.",
+    "ingredient": "Vanilla ice cream, Chocolate sauce, Whipped cream, Cherry",
+    "price": "3.99",
+    "image": "https://i.postimg.cc/BnPchNDd/dessert-3.jpg"
+  },
+  {
+    "category": "Dessert",
+    "name": "Brownie",
+    "description": "Fudgy chocolate brownie served with a scoop of vanilla ice cream.",
+    "ingredient": "Chocolate, Flour, Butter, Sugar, Eggs, Vanilla ice cream",
+    "price": "4.49",
+    "image": "https://i.postimg.cc/QMLgv5JV/dessert-4.jpg"
+  },
+  {
+    "category": "Dessert",
+    "name": "Apple Pie",
+    "description": "Classic apple pie with a flaky crust and sweet cinnamon filling.",
+    "ingredient": "Apples, Flour, Butter, Cinnamon, Sugar",
+    "price": "4.99",
+    "image": "https://i.postimg.cc/3R1gyq5D/dessert-5.jpg"
+  },
+  {
+    "category": "Dessert",
+    "name": "Tiramisu",
+    "description": "Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese.",
+    "ingredient": "Ladyfingers, Coffee, Mascarpone cheese, Cocoa powder, Sugar",
+    "price": "5.99",
+    "image": "https://i.postimg.cc/tJmWkVgq/dessert-6.jpg"
+  },
+  {
+    "category": "Dessert",
+    "name": "Donuts",
+    "description": "Assorted donuts with a variety of glazes and sprinkles.",
+    "ingredient": "Flour, Sugar, Yeast, Milk, Glaze, Sprinkles",
+    "price": "1.99",
+    "image": "https://i.postimg.cc/6QdVK3Mc/dessert-7.jpg"
+  },
+  {
+    "category": "Dessert",
+    "name": "Creme Brulee",
+    "description": "Classic French dessert with a creamy custard base and caramelized sugar topping.",
+    "ingredient": "Cream, Egg yolks, Sugar, Vanilla",
+    "price": "6.49",
+    "image": "https://i.postimg.cc/vHcWBXPc/dessert-8.jpg"
+  },
+  {
+    "category": "Dessert",
+    "name": "Mousse",
+    "description": "Light and fluffy chocolate mousse topped with whipped cream.",
+    "ingredient": "Chocolate, Eggs, Cream, Sugar, Whipped cream",
+    "price": "4.99",
+    "image": "https://i.postimg.cc/1XzDDKs7/dessert-9.jpg"
+  },
+
+
+
+
+
+  {
+    "category": "Bangladeshi Food",
+    "name": "Biryani",
+    "description": "Fragrant rice dish cooked with spiced chicken and saffron.",
+    "ingredient": "Basmati rice, Chicken, Yogurt, Spices, Saffron",
+    "price": "8.99",
+    "image": "https://i.postimg.cc/Y96dd8cp/Bangladeshi-1.jpg"
+  },
+  {
+    "category": "Bangladeshi Food",
+    "name": "Beef Bhuna",
+    "description": "Slow-cooked beef in a rich, spiced gravy with onions and tomatoes.",
+    "ingredient": "Beef, Onions, Tomatoes, Spices, Garlic, Ginger",
+    "price": "9.99",
+    "image": "https://i.postimg.cc/vBFP7kNq/Bangladeshi-2.jpg"
+  },
+  {
+    "category": "Bangladeshi Food",
+    "name": "Panta Ilish",
+    "description": "Traditional Bangladeshi dish of fermented rice served with fried hilsa fish.",
+    "ingredient": "Rice, Hilsa fish, Mustard oil, Chili, Salt",
+    "price": "10.99",
+    "image": "https://i.postimg.cc/Hn3BgxsR/Bangladeshi-3.jpg"
+  },
+  {
+    "category": "Bangladeshi Food",
+    "name": "Shorshe Ilish",
+    "description": "Hilsa fish cooked in a mustard-based gravy, served with steamed rice.",
+    "ingredient": "Hilsa fish, Mustard paste, Green chili, Turmeric, Rice",
+    "price": "11.99",
+    "image": "https://i.postimg.cc/J0RPvJmj/Bangladeshi-4.jpg"
+  },
+  {
+    "category": "Bangladeshi Food",
+    "name": "Kacchi Biryani",
+    "description": "Layered rice dish with marinated mutton, saffron, and spices.",
+    "ingredient": "Basmati rice, Mutton, Yogurt, Saffron, Spices",
+    "price": "12.99",
+    "image": "https://i.postimg.cc/PfM6Z6zy/Bangladeshi-5.jpg"
+  },
+  {
+    "category": "Bangladeshi Food",
+    "name": "Roshogolla",
+    "description": "Soft, spongy sweet balls made from chhena and soaked in sugar syrup.",
+    "ingredient": "Chhena, Sugar, Cardamom, Water",
+    "price": "4.99",
+    "image": "https://i.postimg.cc/vHCnVq1p/Bangladeshi-6.jpg"
+  },
+  {
+    "category": "Bangladeshi Food",
+    "name": "Pithas",
+    "description": "Traditional sweet rice cakes made with rice flour, coconut, and jaggery.",
+    "ingredient": "Rice flour, Coconut, Jaggery, Milk",
+    "price": "3.99",
+    "image": "https://i.postimg.cc/nh7DY4BM/Bangladeshi-7.jpg"
+  },
+  {
+    "category": "Bangladeshi Food",
+    "name": "Chingri Malai Curry",
+    "description": "Prawns cooked in a rich coconut milk curry with fragrant spices.",
+    "ingredient": "Prawns, Coconut milk, Spices, Ginger, Garlic",
+    "price": "9.49",
+    "image": "https://i.postimg.cc/cJS8DvBh/Bangladeshi-8.jpg"
+  },
+
+
+
+
+
+  {
+    "category": "Fast Food",
+    "name": "Cheeseburger",
+    "description": "Grilled beef patty topped with melted cheese, lettuce, and tomatoes.",
+    "ingredient": "Beef patty, Cheese, Lettuce, Tomato, Bun, Ketchup",
+    "price": "5.99",
+    "image": "https://i.postimg.cc/y8Q8RWrW/fast-food-1.jpg"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Fried Chicken",
+    "description": "Crispy, golden fried chicken with a juicy interior.",
+    "ingredient": "Chicken, Flour, Spices, Oil",
+    "price": "7.99",
+    "image": "https://i.postimg.cc/wB1TQHS2/fast-food-2.jpg"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Hot Dog",
+    "description": "Grilled sausage served in a bun with mustard and ketchup.",
+    "ingredient": "Sausage, Bun, Mustard, Ketchup",
+    "price": "3.49",
+    "image": "https://i.postimg.cc/Gp63MVRC/fast-food-3.jpg"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Pizza",
+    "description": "Classic pepperoni pizza with tomato sauce and mozzarella cheese.",
+    "ingredient": "Dough, Tomato sauce, Mozzarella cheese, Pepperoni",
+    "price": "9.99",
+    "image": "https://i.postimg.cc/gjWzphrt/fast-food-4.jpg"
+  },
+  {
+    "category": "Fast Food",
+    "name": "French Fries",
+    "description": "Crispy, golden fries seasoned with salt.",
+    "ingredient": "Potatoes, Salt, Oil",
+    "price": "2.99",
+    "image": "https://i.postimg.cc/QCJXdMT8/fast-food-5.jpg"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Chicken Nuggets",
+    "description": "Bite-sized, breaded and fried chicken pieces.",
+    "ingredient": "Chicken, Flour, Bread crumbs, Oil, Spices",
+    "price": "4.99",
+    "image": "https://i.postimg.cc/mZYZwm6v/fast-food-6.jpg"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Onion Rings",
+    "description": "Crispy fried onion rings served with a side of ketchup.",
+    "ingredient": "Onion, Flour, Oil, Breadcrumbs, Salt",
+    "price": "3.99",
+    "image": "https://i.postimg.cc/wT9qbDC7/fast-food-7.jpg"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Fish and Chips",
+    "description": "Crispy battered fish fillet served with fries.",
+    "ingredient": "Fish fillet, Flour, Oil, Potatoes, Salt",
+    "price": "8.49",
+    "image": "https://i.postimg.cc/J4KrwG8K/fast-food-8.jpg"
+  },
+  {
+    "category": "Fast Food",
+    "name": "BLT Sandwich",
+    "description": "Bacon, lettuce, and tomato sandwich with mayo on toasted bread.",
+    "ingredient": "Bacon, Lettuce, Tomato, Bread, Mayonnaise",
+    "price": "6.49",
+    "image": "https://i.postimg.cc/nhzHnpcx/fast-food-9.jpg"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Grilled Cheese",
+    "description": "Classic grilled cheese sandwich made with melted cheddar.",
+    "ingredient": "Bread, Cheddar cheese, Butter",
+    "price": "4.99",
+    "image": "https://i.postimg.cc/QMKhWmTn/fast-food-10.jpg"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Tacos",
+    "description": "Soft corn tortillas filled with seasoned beef, lettuce, and cheese.",
+    "ingredient": "Corn tortillas, Ground beef, Lettuce, Cheese, Salsa",
+    "price": "6.99",
+    "image": "https://i.postimg.cc/C1yYC8CM/fast-food-11.jpg"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Chicken Sandwich",
+    "description": "Crispy fried chicken sandwich with lettuce and mayo.",
+    "ingredient": "Chicken, Bun, Lettuce, Mayonnaise",
+    "price": "5.99",
+    "image": "https://i.postimg.cc/XJwWsvxf/fast-food-12.jpg"
+  },
+
+
+
+
+  {
+    "category": "Thai Food",
+    "name": "Pad Thai",
+    "description": "Stir-fried rice noodles with shrimp, tofu, eggs, and peanuts.",
+    "ingredient": "Rice noodles, Shrimp, Tofu, Eggs, Peanuts, Tamarind sauce",
+    "price": "9.99",
+    "image": "https://i.postimg.cc/ncVx1pmm/thai-1.jpg"
+  },
+  {
+    "category": "Thai Food",
+    "name": "Green Curry",
+    "description": "Spicy green curry with coconut milk, chicken, and vegetables.",
+    "ingredient": "Coconut milk, Chicken, Green curry paste, Vegetables, Basil",
+    "price": "10.99",
+    "image": "https://i.postimg.cc/RVPBsy1D/thai-2.jpg"
+  },
+  {
+    "category": "Thai Food",
+    "name": "Tom Yum Soup",
+    "description": "Hot and sour soup with shrimp, lemongrass, and mushrooms.",
+    "ingredient": "Shrimp, Lemongrass, Mushrooms, Chili, Lime",
+    "price": "8.99",
+    "image": "https://i.postimg.cc/qvzd9wjM/thai-3.jpg"
+  },
+  {
+    "category": "Thai Food",
+    "name": "Massaman Curry",
+    "description": "Rich and mild curry with beef, potatoes, and peanuts.",
+    "ingredient": "Beef, Potatoes, Peanuts, Coconut milk, Massaman curry paste",
+    "price": "11.99",
+    "image": "https://i.postimg.cc/NjSwYXz8/thai-4.jpg"
+  },
+  {
+    "category": "Thai Food",
+    "name": "Som Tum",
+    "description": "Green papaya salad with chili, lime, and peanuts.",
+    "ingredient": "Green papaya, Chili, Lime, Peanuts, Fish sauce",
+    "price": "7.99",
+    "image": "https://i.postimg.cc/g0hb00CC/thai-5.jpg"
+  },
+  {
+    "category": "Thai Food",
+    "name": "Mango Sticky Rice",
+    "description": "Sweet sticky rice served with fresh mango and coconut milk.",
+    "ingredient": "Sticky rice, Mango, Coconut milk, Sugar",
+    "price": "6.49",
+    "image": "https://i.postimg.cc/9Mj5whVr/thai-6.jpg"
+  },
+  {
+    "category": "Thai Food",
+    "name": "Thai Fried Rice",
+    "description": "Fried rice with shrimp, eggs, vegetables, and fish sauce.",
+    "ingredient": "Rice, Shrimp, Eggs, Vegetables, Fish sauce",
+    "price": "8.49",
+    "image": "https://i.postimg.cc/D0295PSh/thai-7.jpg"
+  },
+  {
+    "category": "Thai Food",
+    "name": "Chicken Satay",
+    "description": "Grilled chicken skewers served with peanut sauce.",
+    "ingredient": "Chicken, Peanut sauce, Lemongrass, Turmeric, Spices",
+    "price": "7.99",
+    "image": "https://i.postimg.cc/7hmpRJz2/thai-8.jpg"
+  },
+  {
+    "category": "Thai Food",
+    "name": "Red Curry",
+    "description": "Spicy red curry with chicken, bamboo shoots, and coconut milk.",
+    "ingredient": "Chicken, Bamboo shoots, Coconut milk, Red curry paste",
+    "price": "10.49",
+    "image": "https://i.postimg.cc/PfysJ975/thai-9.jpg"
+  }
+]
